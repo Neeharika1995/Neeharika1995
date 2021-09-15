@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and travelling.
 - 🌱 I’m currently learning about PCF.
 - 💞️ I’m looking to collaborate on it.
-- 📫 How to reach me .
+- 📫 How to reach me siddanineeharika@gmail.com.
 
 <!---
 Neeharika1995/Neeharika1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
